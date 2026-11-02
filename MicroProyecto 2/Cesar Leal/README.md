@@ -2,7 +2,7 @@
 
 Notebook ejecutado completo en Colab (T4, ~2 h): `MP2_Equipo21.ipynb`
 
-Zip de entrega con los 3 checkpoints (1,87 GB): PEGAR_ENLACE_DE_DRIVE
+Zip de entrega con los 3 checkpoints (1,87 GB): https://drive.google.com/file/d/1fu74eKqS8WyS-JZ_OQi3iAljdhC4X8D9/view?usp=drive_link
 
 ## Resultados en prueba
 
