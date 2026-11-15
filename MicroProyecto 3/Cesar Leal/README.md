@@ -2,7 +2,7 @@
 
 Notebook: `MP3_Equipo21.ipynb`. Lo corrí completo en Colab con una T4 (unos 45 min en total). Tiene las 11 secciones en el orden que pide el enunciado.
 
-Zip para la entrega (notebook + los 2 adaptadores LoRA, 40 MB): pendiente el link de Drive
+Zip para la entrega (notebook + los 2 adaptadores LoRA, 40 MB): https://drive.google.com/file/d/14gQnqqSzlMVdC4H23T3LT_E9u6sjTkJ6/view?usp=sharing
 
 ## Resultados
 
